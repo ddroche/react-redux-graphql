@@ -1,0 +1,13 @@
+# node_modules ignored by default
+package.json
+
+# Ignore the root gulpfile
+Gulpfile.js
+
+#ignore html / assets
+**/*.html
+src/assets/
+src/styles/
+
+# Ignore built files
+build/

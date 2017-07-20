@@ -1,0 +1,19 @@
+{
+  "name": "Node-GraphQL-React-Redux-Server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "nodemon src"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "graphql": "^0.10.3",
+    "graphql-server-express": "^1.0.0",
+    "mongoose": "^4.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
